@@ -1,4 +1,4 @@
-#Guild Wars2 Daily 激戰2的日常
+#Guild Wars 2 Daily 激戰2的日常
 
 ![Conservation_rl_001](https://user-images.githubusercontent.com/31240078/149455947-301567f8-4fb2-4c85-bdcf-149e919c5a66.jpg)
 ![Conservation_rl_002](https://user-images.githubusercontent.com/31240078/149455960-eb3772d0-83f7-4182-8e9d-57fc6254bdb5.jpg)
